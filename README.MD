@@ -10,6 +10,6 @@ Ressalta-se que este repositório não se destina à implementação de um siste
 
 
 Autores
-Luan Pereira Banhos
-Marcelo Oikawa Ibañez junior
+Luan Pereira Banhos,
+Marcelo Oikawa Ibañez junior e 
 Ronaldo Rodrigues Martis
